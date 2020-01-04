@@ -18,10 +18,10 @@ STATION_DATES = [
 STATION_TRAINS = []
 
 # 出发城市，比如深圳北，就填深圳就搜得到
-FROM_STATION = "上海虹桥"
+FROM_STATION = "上海"
 
 # 到达城市 比如深圳北，就填深圳就搜得到
-TO_STATION = "赣榆"
+TO_STATION = "连云港"
 
 # 座位(list) 多个座位ex:
 # "商务座",
@@ -126,8 +126,8 @@ CHROME_PATH = "/usr/src/app/chromedriver"
 CHROME_CHROME_PATH = "/opt/google/chrome/google-chrome"
 
 # 如果COOKIE_TYPE=3, 则需配置RAIL_EXPIRATION、RAIL_DEVICEID的值
-RAIL_EXPIRATION = ""
-RAIL_DEVICEID = ""
+RAIL_EXPIRATION = "1578384204399"
+RAIL_DEVICEID = "VEAkySvh6BMs5AvC5oqXv7EFgdO6Ryp-pkL9hw7JpLg8x3KyVErgre9H-arrBAyVMSVjHGCUwwipm0Mob7dt2F6tU25Z1Rx5B4E8G9Fvf7kf6LTOfW7qvXCi-N0zlj3m-7Z4cenzoAbFeGxN_hcVN5vPr_kBLf2u"
 # RAIL_EXPIRATION = "1577034103293"
 # RAIL_DEVICEID = "CDno29Erc_Pf3FSXb4dzq-Op64EhWrsi5yUZKVIKR1MAfYo2qFlCeXD8VkexY7_1qg-ClV-fE8j9jgVlPZxRh3wVc2iqLe_5A8sdr62qZx4B22JPF8lFCjpgTKZ5ODW90HJd5tiQsJ1KR9nOqHRxHj1FT5LEIwfw"
 
